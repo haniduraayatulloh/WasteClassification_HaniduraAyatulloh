@@ -71,8 +71,10 @@ Proses evaluasi dilakukan menggunakan data uji (*Test Set*) yang sepenuhnya baru
     ├── model_waste.h5            # Format Standar Keras
     └── model_waste.tflite        # Format Terkompresi untuk Mobile/Edge Device
 
+```
 
-Key Highlights
+---
+# Key Highlights
 
 ✅ End-to-End Deep Learning Pipeline
 
@@ -89,26 +91,6 @@ Key Highlights
 ✅ Single Image Inference
 
 ✅ Batch Inference
-
----
-
-# Project Structure
-
-```bash
-.
-├── Klasifikasi_Sampah.ipynb
-├── waste_classification_raw/
-├── waste_dataset_extracted/
-├── waste_classification_binary/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── models/
-│   ├── SavedModel/
-│   ├── model.h5
-│   └── model.keras
-└── README.md
-```
 
 ---
 
@@ -173,7 +155,7 @@ Inference
 ```
 
 ---
-
+# 🚀 Panduan Menjalankan Sistem Klasifikasi Sampah
 # Installation
 
 ## 1. Clone Repository
