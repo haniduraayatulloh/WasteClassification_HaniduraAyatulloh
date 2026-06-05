@@ -71,9 +71,8 @@ Proses evaluasi dilakukan menggunakan data uji (*Test Set*) yang sepenuhnya baru
     ├── model_waste.h5            # Format Standar Keras
     └── model_waste.tflite        # Format Terkompresi untuk Mobile/Edge Device
 
-# 🚀 Panduan Menjalankan Sistem Klasifikasi Sampah
 
-## Key Highlights
+Key Highlights
 
 ✅ End-to-End Deep Learning Pipeline
 
